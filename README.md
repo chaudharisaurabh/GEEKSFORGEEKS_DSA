@@ -11,5 +11,7 @@ Problems and there solutions
 --|---|---|--
 |01|Minimize the Heights II|[Problem](./Minimize_the_heights_ii/problem.md)|[Solution](./Minimize_the_heights_ii/Main.java)|
 |02|Move All Zeroes to End|[Problem](./Move_All_Zeroes_to_End/problem.md)|[Solution](./Move_All_Zeroes_to_End/Main.java)|
+|03|Reverse an Array|[Problem](./Reverse_an_array/problem.md)|[Solution](./Reverse_an_array/Main.java)|
+|04|Rotate Array|[Problem](./Rotate_array/problem.md)|[Solution](./Rotate_array/Main.java)|
 |09|Minimize the Heights II|[Problem](./Minimize_the_heights_ii/problem.md)|[Solution](./Minimize_the_heights_ii/Main.java)|
 |10|Kadane's Algorithm|[Problem](./Kadanes_alorigthm/problem.md)|[Solution](./Kadanes_alorigthm/Main.java)|
