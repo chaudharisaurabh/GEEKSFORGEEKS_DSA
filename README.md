@@ -18,3 +18,9 @@ Problems and there solutions
 |08|Stock Buy and Sell – Max one Transaction Allowed|[Problem](./Stock_buy_sell_one/problem.md)|[Solution](./Stock_buy_sell_one/Main.java)|
 |09|Minimize the Heights II|[Problem](./Minimize_the_heights_ii/problem.md)|[Solution](./Minimize_the_heights_ii/Main.java)|
 |10|Kadane's Algorithm|[Problem](./Kadanes_alorigthm/problem.md)|[Solution](./Kadanes_alorigthm/Main.java)|
+
+
+### Strings
+|Sl. no.|Problem Name|Problem Link|Solution Link|
+--|---|---|--
+|16|Anagram|[Problem](./Anagram/problem.md)|[Solution](./Anagram/Main.java)|
