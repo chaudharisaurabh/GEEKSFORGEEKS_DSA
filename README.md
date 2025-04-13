@@ -24,3 +24,4 @@ Problems and there solutions
 |Sl. no.|Problem Name|Problem Link|Solution Link|
 --|---|---|--
 |16|Anagram|[Problem](./Anagram/problem.md)|[Solution](./Anagram/Main.java)|
+|17|Non repeating character|[Problem](./NonRepeatingCharacter/problem.md)|[Solution](./NonRepeatingCharacter/Main.java)|
