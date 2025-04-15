@@ -6,7 +6,7 @@ Problems and there solutions
 
 ### Problems Solved
 
-### Arrays
+### Arrays [9/13]
 |Sl. no.|Problem Name|Problem Link|Solution Link|
 --|---|---|--
 |01|Minimize the Heights II|[Problem](./Minimize_the_heights_ii/problem.md)|[Solution](./Minimize_the_heights_ii/Main.java)|
@@ -20,8 +20,15 @@ Problems and there solutions
 |10|Kadane's Algorithm|[Problem](./Kadanes_alorigthm/problem.md)|[Solution](./Kadanes_alorigthm/Main.java)|
 
 
-### Strings
+### Strings [2/7]
 |Sl. no.|Problem Name|Problem Link|Solution Link|
 --|---|---|--
 |16|Anagram|[Problem](./Anagram/problem.md)|[Solution](./Anagram/Main.java)|
 |17|Non repeating character|[Problem](./NonRepeatingCharacter/problem.md)|[Solution](./NonRepeatingCharacter/Main.java)|
+
+
+
+### Sorting [0/7]
+|Sl. no.|Problem Name|Problem Link|Solution Link|
+--|---|---|--
+|21|Sort 0s 1s 2s|[Problem](./Sorting/Sort_0_1_2/problem.md)|[Solution](./Sorting/Sort_0_1_2/Main.java)|

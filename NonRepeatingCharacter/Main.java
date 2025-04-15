@@ -38,7 +38,6 @@ class Solution {
         HashMap<Character,Integer> hmp = new HashMap<Character, Integer>();
         
         
-        
         for(int i =0; i< s.length(); i++){
             
             Character s1 = s.charAt(i);
